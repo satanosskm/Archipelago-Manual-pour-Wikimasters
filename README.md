@@ -33,18 +33,6 @@ supplémentaire.
 
 ---
 
-## Rejoindre une partie
-
-1. Dans le launcher, faites **Generate** et ajoutez un joueur **Wikimasters**.
-2. Réglez les options si vous le souhaitez (voir plus bas).
-3. Générez la partie.
-4. Ouvrez le client **Manual** (le client Archipelago prévu pour les jeux de
-   ce type) et chargez le fichier `.apmanual` qui a été produit pour votre
-   joueur.
-5. Connectez-vous au serveur.
-
----
-
 ## Comment jouer
 
 Au début de la partie, vous recevez **3 thèmes tirés au hasard**. Ils sont
