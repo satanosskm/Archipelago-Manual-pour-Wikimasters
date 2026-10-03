@@ -40,11 +40,9 @@ déjà dans votre inventaire, donc les 3 checks correspondants sont tout de
 suite accessibles.
 
 Ensuite, à vous d'ouvrir des paquets sur WikiMasters et de piocher des cartes
-qui correspondent aux thèmes de la partie. Chaque carte qui correspond à un
-thème vous fait gagner l'item `Thème "..."` du même nom, ce qui valide le
-check associé.
+qui correspondent aux thèmes de la partie.
 
-Vous gagnez la partie quand vous avez réuni le nombre de thèmes demandé.
+Vous gagnez la partie quand vous avez réuni le nombre de thèmes demandé (il faut réunir un certain nombres de thèmes, et non forcément les valider).
 
 Le hasard a une grande place : les thèmes actifs sont tirés à la seed, et les
 items sont éparpillés dans le multiworld. Selon la chance que vous avez, une
