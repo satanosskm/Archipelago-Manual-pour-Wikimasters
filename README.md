@@ -1,5 +1,15 @@
 # Archipelago Manual pour Wikimasters
 
+## CE RANDOMIZER NE SE CONNECTE EN AUCUN CAS AU SERVEUR DU JEU
+
+**Aucune connexion, d'aucune manière, à aucun moment.**
+
+**La validation des thèmes est manuelle** : vous cochez vous-même vos thèmes
+dans le client, exactement comme on coche une liste sur une feuille de papier
+avec un crayon.
+
+---
+
 Randomizer Archipelago pour **Wikimasters**, un jeu de cartes en ligne gratuit
 où chaque carte vient d'un article de Wikipédia.
 
@@ -8,6 +18,41 @@ randomizer vous devez tirer des cartes qui correspondent aux **thèmes** de la
 partie pour valider des checks.
 
 Site officiel : **https://www.wiki-masters.com/**
+
+---
+
+## Aucune connexion au serveur du jeu
+
+**Archipelago Manual pour Wikimasters ne se connecte EN AUCUN CAS et d'AUCUNE
+MANIÈRE au serveur de WikiMasters.**
+
+- Le randomizer ne contacte **que** le serveur Archipelago, celui qui héberge
+  la partie multijoueur. Jamais le serveur du jeu.
+- Il ne lit, ne modifie et n'interagit avec **rien** sur le site
+  wiki-masters.com : ni votre compte, ni vos cartes, ni vos paquets, ni votre
+  progression.
+- Il n'y a **aucun script, aucune extension, aucun automatisme** : rien qui
+  tourne sur le site ou à côté de lui.
+- La validation des thèmes est **entièrement manuelle**. C'est vous qui cochez
+  vos thèmes dans le client Archipelago, un par un, comme on coche une liste
+  sur une feuille de papier avec un crayon. Rien n'est validé automatiquement
+  à votre place.
+- Le randomizer ne vous donne **aucune carte, aucun paquet, aucun avantage en
+  jeu**. Vous jouez à WikiMasters exactement comme d'habitude.
+
+---
+
+## Aucune affiliation
+
+Ce projet est un **projet de fan indépendant et personnel**.
+
+**Je ne suis en aucun cas affilié à WikiMasters** : ni au site, ni à l'équipe
+qui le fait, ni à ses modérateurs, ni à qui que ce soit d'autre lié au jeu.
+Je ne les représente pas, je ne parle pas en leur nom, et ils n'ont validé ni
+ce projet ni ce randomizer.
+
+Je ne suis affilié ni à Wikipédia ni à la Wikimedia Foundation, dont le contenu
+encyclopédique est simplement réutilisé sous licence libre CC BY-SA.
 
 ---
 
@@ -40,9 +85,11 @@ déjà dans votre inventaire, donc les 3 checks correspondants sont tout de
 suite accessibles.
 
 Ensuite, à vous d'ouvrir des paquets sur WikiMasters et de piocher des cartes
-qui correspondent aux thèmes de la partie.
+qui correspondent aux thèmes de la partie. Chaque carte qui correspond à un
+thème vous fait gagner l'item `Thème "..."` du même nom, ce qui valide le
+check associé.
 
-Vous gagnez la partie quand vous avez réuni le nombre de thèmes demandé (il faut réunir un certain nombres de thèmes, et non forcément les valider).
+Vous gagnez la partie quand vous avez réuni le nombre de thèmes demandé.
 
 Le hasard a une grande place : les thèmes actifs sont tirés à la seed, et les
 items sont éparpillés dans le multiworld. Selon la chance que vous avez, une
@@ -167,3 +214,8 @@ bloquer les autres joueurs si vous attendez un thème.
 Randomizer créé par **Satanos** pour Archipelago, d'après le jeu WikiMasters
 (https://www.wiki-masters.com/), dont le contenu encyclopédique est issu de
 Wikipédia sous licence libre CC BY-SA.
+
+**Projet de fan indépendant, sans aucune affiliation avec WikiMasters, son
+site, son équipe ou ses modérateurs, ni avec Wikipédia ou la Wikimedia
+Foundation.** Ce randomizer ne se connecte à aucun moment au serveur du jeu et
+ne modifie rien sur le site.
